@@ -73,6 +73,7 @@ merchant_cleaner/
 │   ├── xgboost_feature_extractor.py  # Feature utility for the legacy XGBoost model
 │   └── label_generator.py            # Label utility for the legacy CRF model
 │
+├── .gitattributes                    # Git attributes file
 ├── .gitignore                        # Git ignore file
 ├── README.md                         # This project documentation file
 └── requirements.txt                  # Python package requirements
