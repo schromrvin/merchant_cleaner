@@ -92,7 +92,7 @@ The core of this project is a comprehensive list of all officially registered bu
 **1. Clone the Repository**
 
 ```bash
-git clone https://bitbucket.ocbc.com/scm/~a9016631/merchant-clean.git
+git clone https://github.com/schromrvin/merchant_cleaner
 cd merchant_cleaner
 ```
 
